@@ -1,0 +1,15 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  rider_id: 1
+  driver_id: 1
+  requested_at: 2023-09-06 11:45:07
+  started_at: 2023-09-06 11:45:07
+  completed_at: 2023-09-06 11:45:07
+
+two:
+  rider_id: 1
+  driver_id: 1
+  requested_at: 2023-09-06 11:45:07
+  started_at: 2023-09-06 11:45:07
+  completed_at: 2023-09-06 11:45:07
